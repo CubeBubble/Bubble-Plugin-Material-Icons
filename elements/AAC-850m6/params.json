@@ -1,0 +1,36 @@
+{
+    "add_hover_pressed": true,
+    "add_is_visible": true,
+    "can_fit_height": true,
+    "can_fit_width": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 24,
+        "width": 24
+    },
+    "display": "Material Icon",
+    "fields": {
+        "AAF": {
+            "caption": "Name",
+            "editor": "DynamicValue",
+            "name": "name",
+            "options": "Search",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAG": {
+            "caption": "Type",
+            "default_val": "Round",
+            "editor": "Dropdown",
+            "name": "type",
+            "options": "Round,Filled,Outlined",
+            "rank": 0
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "property_applications": {
+        "Font": true,
+        "MinWidth": true,
+        "resizable": true
+    }
+}
